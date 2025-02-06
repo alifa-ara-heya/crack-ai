@@ -3,11 +3,11 @@ const Generate = () => {
     return (
         <div className="w-11/12 mx-auto">
             <h2 className="text-3xl text-center">Generate Image</h2>
-            <form>
+            <form className="flex justify-center items-center my-8">
 
                 <fieldset className="form-control w-80">
                     <label className="label">
-                        <span className="label-text">Enter your email address</span>
+
                     </label>
                     <div className="join">
                         <input
